@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\bin\Debug\isimyazı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\bin\Debug\isimyazı.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\bin\Debug\isimyazı.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\isimyazı\isimyazı\obj\Debug\isimyazı.pdb
